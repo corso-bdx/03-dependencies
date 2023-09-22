@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Tomlyn" Version="0.16.2" />
     <PackageReference Include="YamlDotNet" Version="13.4.0" />
   </ItemGroup>
 
